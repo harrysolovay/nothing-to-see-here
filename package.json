@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "example": "node index.js"
+  },
+  "dependencies": {
+    "@substrate/smoldot-light": "^0.6.16",
+    "the-temporary-super-secret-name": "^0.1.0-beta.1"
+  }
+}
